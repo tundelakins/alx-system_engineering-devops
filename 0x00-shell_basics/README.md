@@ -1,1 +1,1 @@
-This Script moves files
+First Delete
