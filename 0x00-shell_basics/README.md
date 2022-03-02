@@ -1,1 +1,1 @@
-This Script Displays the contents list of my current directory
+This Script changes directory to user' own directory
