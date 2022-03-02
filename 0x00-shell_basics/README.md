@@ -1,1 +1,1 @@
-This Script lists files in long format
+This Script shows hidden files including Dot
