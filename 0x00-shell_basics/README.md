@@ -1,1 +1,1 @@
-My first directory
+This Script shows hidden files including Dot
