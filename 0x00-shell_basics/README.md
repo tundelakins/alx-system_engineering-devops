@@ -1,1 +1,1 @@
-Change to previous directory
+LIST all files
