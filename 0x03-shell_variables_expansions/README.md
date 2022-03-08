@@ -1,1 +1,1 @@
-Global Variable Creation
+True Knowledge
